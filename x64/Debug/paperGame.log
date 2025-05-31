@@ -1,0 +1,5 @@
+﻿  paperGame.cpp
+C:\Users\G.B\source\repos\paperGame\paperGame.cpp(23,11): warning C4101: 'choose': unreferenced local variable
+C:\Users\G.B\source\repos\paperGame\paperGame.cpp(88,11): warning C4101: 'choose': unreferenced local variable
+C:\Users\G.B\source\repos\paperGame\paperGame.cpp(104): warning C4715: 'coorect': not all control paths return a value
+  paperGame.vcxproj -> C:\Users\G.B\source\repos\paperGame\x64\Debug\paperGame.exe

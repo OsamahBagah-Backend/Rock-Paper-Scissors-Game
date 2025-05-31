@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "076f144f-007a-4e6a-a3ad-ef309c253dd1": {
+      "ProjectGuid": "076f144f-007a-4e6a-a3ad-ef309c253dd1",
+      "DisplayName": "paperGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
